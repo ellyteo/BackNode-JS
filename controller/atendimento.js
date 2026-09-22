@@ -1,4 +1,4 @@
-import ServiceAtendimentos from '../service/atendimentos.js'
+import ServiceAtendimentos from '../service/atendimento.js'
 
 class ControllerAtendimentos {
 

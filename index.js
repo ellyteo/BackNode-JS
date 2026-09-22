@@ -1,5 +1,5 @@
 import express from 'express'
-import database from './config/clientes.js'
+import database from './config/database.js'
 import clientes from './router/clientes.js'
 import atendimento from './router/atendimento.js'
 

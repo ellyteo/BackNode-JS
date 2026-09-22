@@ -1,4 +1,4 @@
-import database from "../config/clientes.js"
+import database from '../config/database.js'
 
 class Clientes {
     constructor() {

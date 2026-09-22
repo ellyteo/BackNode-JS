@@ -1,5 +1,3 @@
-import bcrypt from 'bcrypt'
-import jwt from 'jsonwebtoken'
 import RepositoryAtendimentos from '../repository/atendimento.js'
 
 const segredo = 'S3gred0'

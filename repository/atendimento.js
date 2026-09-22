@@ -1,4 +1,4 @@
-import atendimento from '../model/atendimentos.js'
+import atendimento from '../model/atendimento.js'
 
 class RepositoryAtendimentos {
 
